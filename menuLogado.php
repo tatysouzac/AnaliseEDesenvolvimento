@@ -180,10 +180,11 @@
 			<img class="d-block w-100" src="imagem/slide1.jpg" alt="Primeiro Slide">
 		</div>
     <div class="carousel-item">
-		<img class="d-block w-100" src="imagem/slide4.jpg" height="344px" alt="Segundo Slide">
+		<img class="d-block w-100" src="imagem/slide4.jpg" height="458px" alt="Segundo Slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="imagem/slide3.jpg" height="344px" alt="Terceiro Slide">
+      <img class="d-block w-100" src="imagem/slide3.jpg" height="458px" alt="Terceiro Slide">
+
     </div>
 	</div>
 	<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -198,9 +199,9 @@
 
 
 <!---------------------- Oferta ---------------------------------------------------------------->
-<div class="container-fluid">
+<center>
 	<img src="imagem/oferta.jpg">
-</div>
+</center>
 </br></br></br></br></br></br></br></br></br></br></br></br>
 
 
